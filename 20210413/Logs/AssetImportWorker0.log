@@ -144,3 +144,786 @@ Received Import Request.
 Start importing Assets/StarDudes_Package/Prefabs/stardudes/stardude_betahelmet.prefab using Guid(64228339575d99f4e994fd1785d57a25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86d9fb87e97386d53bc802d56db47887') in 0.046799 seconds
   Import took 0.049849 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1256.680656 seconds.
+  path: Assets/vuforia engine
+  artifactKey: Guid(f4abed1db75b713489d5907213fe0f67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vuforia engine using Guid(f4abed1db75b713489d5907213fe0f67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06cba76c06ab18a60217fa43ec576dad') in 0.010852 seconds
+  Import took 0.015464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.846504 seconds.
+  path: Assets/vuforia engine/build
+  artifactKey: Guid(171c486d5efd774448fb628e466cb61f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vuforia engine/build using Guid(171c486d5efd774448fb628e466cb61f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d93a98c1389073c6e5c40ae742af865') in 0.010221 seconds
+  Import took 0.014775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.001764 seconds.
+  path: Assets/vuforia engine/build/include
+  artifactKey: Guid(5a968aa639a42774eb706938466d081e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vuforia engine/build/include using Guid(5a968aa639a42774eb706938466d081e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3604148a4c83968e3244735bfd7c7997') in 0.009511 seconds
+  Import took 0.013476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.865446 seconds.
+  path: Assets/vuforia engine/build/include/Vuforia
+  artifactKey: Guid(336ff51e0e44a21469f991a803635d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vuforia engine/build/include/Vuforia using Guid(336ff51e0e44a21469f991a803635d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bc59295adcea041c8b39c40a73ac129') in 0.012417 seconds
+  Import took 0.016516 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002077 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.033 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.2 MB.
+System memory in use after: 74.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1570.
+Total: 3.625600 ms (FindLiveObjects: 0.358700 ms CreateObjectMapping: 0.075500 ms MarkObjects: 3.120900 ms  DeleteObjects: 0.068300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.808354 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2e0e235c0f4af3754229b664788db90') in 0.016913 seconds
+  Import took 0.020700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002072 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2e0e235c0f4af3754229b664788db90') in 0.010895 seconds
+  Import took 0.014411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 137.996913 seconds.
+  path: Assets/StarDudes_Package/Prefabs/stardudes_alt/stardude_alphahelmet.prefab
+  artifactKey: Guid(7e0efe2a432834447a26c79e66cddb48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Prefabs/stardudes_alt/stardude_alphahelmet.prefab using Guid(7e0efe2a432834447a26c79e66cddb48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd98beab1c4b38a0a597a72d8b2481275') in 0.195731 seconds
+  Import took 0.200400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000725 seconds.
+  path: Assets/StarDudes_Package/Prefabs/stardudes_alt/stardude_panthra.prefab
+  artifactKey: Guid(c35c5066c847b8446ab819bab3c4b1fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Prefabs/stardudes_alt/stardude_panthra.prefab using Guid(c35c5066c847b8446ab819bab3c4b1fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee62297dee259df6524b1d373f25b5a3') in 0.062409 seconds
+  Import took 0.066054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000630 seconds.
+  path: Assets/StarDudes_Package/Prefabs/stardudes_alt/stardude_hedgehog.prefab
+  artifactKey: Guid(a6bda11e6b6f6da4fb7ec91d1271b6ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Prefabs/stardudes_alt/stardude_hedgehog.prefab using Guid(a6bda11e6b6f6da4fb7ec91d1271b6ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c9238ac910d5d08ad36631045b7cbb4') in 0.068914 seconds
+  Import took 0.073965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/StarDudes_Package/Prefabs/stardudes_alt/stardude_betahelmet.prefab
+  artifactKey: Guid(7f45e408faa6fd146a6864d53b9ccbc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Prefabs/stardudes_alt/stardude_betahelmet.prefab using Guid(7f45e408faa6fd146a6864d53b9ccbc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14f8fabdd4a751ee4f199c573f500bf3') in 0.067387 seconds
+  Import took 0.071311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/StarDudes_Package/Prefabs/stardudes_alt/stardude_dingo.prefab
+  artifactKey: Guid(71a5125260f2f5c4192387ea04556909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Prefabs/stardudes_alt/stardude_dingo.prefab using Guid(71a5125260f2f5c4192387ea04556909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a7a830144ef0b176c4c4cd597493546') in 0.113253 seconds
+  Import took 0.118615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000531 seconds.
+  path: Assets/StarDudes_Package/Prefabs/stardudes_alt/stardude_hawk.prefab
+  artifactKey: Guid(d86a1b9fd68d8b848b5e55a085e839da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Prefabs/stardudes_alt/stardude_hawk.prefab using Guid(d86a1b9fd68d8b848b5e55a085e839da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3858f7743dedd0ed561682343725bb52') in 0.067841 seconds
+  Import took 0.071715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.592978 seconds.
+  path: Assets/StarDudes_Package/_source/Models/heads/head_h_capitan.fbx
+  artifactKey: Guid(a1a771bdbe9096749b160c286ce871d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/_source/Models/heads/head_h_capitan.fbx using Guid(a1a771bdbe9096749b160c286ce871d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72978a54697b7242658e80ad408b4032') in 0.562733 seconds
+  Import took 0.566956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000600 seconds.
+  path: Assets/StarDudes_Package/Animations/StarDudes@Run_Dive.fbx
+  artifactKey: Guid(c93267e87b030104c9ca7ea36edecd7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Animations/StarDudes@Run_Dive.fbx using Guid(c93267e87b030104c9ca7ea36edecd7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9c1495373e71dd2f881537415091384') in 0.016429 seconds
+  Import took 0.020546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000596 seconds.
+  path: Assets/StarDudes_Package/Animations/StarDudes@Strafe_Left.fbx
+  artifactKey: Guid(06b8114d260ab3a459b939aaee9802a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Animations/StarDudes@Strafe_Left.fbx using Guid(06b8114d260ab3a459b939aaee9802a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e887b36fc69f030bdf11cf89dc458987') in 0.019755 seconds
+  Import took 0.024017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000832 seconds.
+  path: Assets/StarDudes_Package/_source/Models/heads/head_m_hawk.fbx
+  artifactKey: Guid(bfce0373073ff894987090095cd4d210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/_source/Models/heads/head_m_hawk.fbx using Guid(bfce0373073ff894987090095cd4d210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff9c2510b078d799f27f7cc7b51a600a') in 0.044543 seconds
+  Import took 0.048491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000528 seconds.
+  path: Assets/StarDudes_Package/Animations/StarDudes@Run_Jump.fbx
+  artifactKey: Guid(de494cc0ac70db94fbf303556c13db6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Animations/StarDudes@Run_Jump.fbx using Guid(de494cc0ac70db94fbf303556c13db6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '455fd9670e27f1bf9904ec273ce81a1d') in 0.016242 seconds
+  Import took 0.021288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/StarDudes_Package/Animations/StarDudes@Pistol_run_SingleShot.fbx
+  artifactKey: Guid(ef648797790e4564ba036ec12757a0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Animations/StarDudes@Pistol_run_SingleShot.fbx using Guid(ef648797790e4564ba036ec12757a0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd169ea1a85c40d4b14089b552fced150') in 0.056575 seconds
+  Import took 0.060361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000536 seconds.
+  path: Assets/StarDudes_Package/Animations/StarDudes@Rifle_SingleShot.fbx
+  artifactKey: Guid(426d28f1786075742b498302313d4fe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Animations/StarDudes@Rifle_SingleShot.fbx using Guid(426d28f1786075742b498302313d4fe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c42b99cdbc3a90ffcec30af956b42b73') in 0.016744 seconds
+  Import took 0.021870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000464 seconds.
+  path: Assets/StarDudes_Package/_source/Models/helmets/helmet_m_beta.fbx
+  artifactKey: Guid(9962aa3688d903d4987001bbf5af71b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/_source/Models/helmets/helmet_m_beta.fbx using Guid(9962aa3688d903d4987001bbf5af71b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ee076c51262880ffa9f1f1450fb0874') in 0.039744 seconds
+  Import took 0.043187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/StarDudes_Package/Animations/StarDudes@Collapse_GutShot.fbx
+  artifactKey: Guid(ef9387bdb3fad494c846de0a862ea5cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Animations/StarDudes@Collapse_GutShot.fbx using Guid(ef9387bdb3fad494c846de0a862ea5cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd228aeff2654a5afca4f313d2dd5060') in 0.021688 seconds
+  Import took 0.025330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000616 seconds.
+  path: Assets/StarDudes_Package/_source/Models/weapons/pistol_raygun.fbx
+  artifactKey: Guid(487e94867939e904f9f41b870b20ddd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/_source/Models/weapons/pistol_raygun.fbx using Guid(487e94867939e904f9f41b870b20ddd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40bd7e99dbcf9c140e998d06a8cf0aa0') in 0.038790 seconds
+  Import took 0.042392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000547 seconds.
+  path: Assets/StarDudes_Package/Animations/StarDudes@Rifle_Run.fbx
+  artifactKey: Guid(c6d5448b13bbf774b87e9492985f03bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Animations/StarDudes@Rifle_Run.fbx using Guid(c6d5448b13bbf774b87e9492985f03bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f292445178a74165655ed4b1b01a3cb') in 0.019311 seconds
+  Import took 0.023448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000649 seconds.
+  path: Assets/StarDudes_Package/Animations/StarDudes@Pistol_FourShot.fbx
+  artifactKey: Guid(006a0b182503a4342ad04e6766ac0b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Animations/StarDudes@Pistol_FourShot.fbx using Guid(006a0b182503a4342ad04e6766ac0b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '374652add4198a493bcf1403dc2c39a9') in 0.020171 seconds
+  Import took 0.025176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000522 seconds.
+  path: Assets/StarDudes_Package/_source/Models/heads/head_m_panthra.fbx
+  artifactKey: Guid(01dd207f441ea4e4f8bacd7a6ee4df75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/_source/Models/heads/head_m_panthra.fbx using Guid(01dd207f441ea4e4f8bacd7a6ee4df75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4b26dff3399c72fa2b2806a63804fd3') in 0.052422 seconds
+  Import took 0.055866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/StarDudes_Package/_source/Models/heads/head_m_hedgehog.fbx
+  artifactKey: Guid(091bdd8853c6aeb49b3f42ebe538e007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/_source/Models/heads/head_m_hedgehog.fbx using Guid(091bdd8853c6aeb49b3f42ebe538e007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a1bfc30c21e0e9e4f726c341188e01b') in 0.041061 seconds
+  Import took 0.044827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/StarDudes_Package/_source/Models/suits/stardudes_suit_mk2_generic.fbx
+  artifactKey: Guid(991bb5f1dfb477a47b41b9c4776af31c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/_source/Models/suits/stardudes_suit_mk2_generic.fbx using Guid(991bb5f1dfb477a47b41b9c4776af31c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa09fe35f88b346dc3fcf16c13fd579f') in 0.057710 seconds
+  Import took 0.061343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000677 seconds.
+  path: Assets/StarDudes_Package/_source/Models/heads/head_m_dingo.fbx
+  artifactKey: Guid(1eeeeb755d2fac04d892eab293fe4cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/_source/Models/heads/head_m_dingo.fbx using Guid(1eeeeb755d2fac04d892eab293fe4cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1588de81934f7e4c179d0e9e1ea2c9c5') in 0.082080 seconds
+  Import took 0.086920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000552 seconds.
+  path: Assets/StarDudes_Package/_source/Models/suits/stardudes_suit_mk1.fbx
+  artifactKey: Guid(1df7cc1ec8692f84ab2918d3a8c6fc46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/_source/Models/suits/stardudes_suit_mk1.fbx using Guid(1df7cc1ec8692f84ab2918d3a8c6fc46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b58ad8f97372718404a722bd9c281cc3') in 0.058485 seconds
+  Import took 0.062230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000567 seconds.
+  path: Assets/StarDudes_Package/Animations/StarDudes@Rifle_Idle_1.fbx
+  artifactKey: Guid(7641d9d5bda09b140b776211a9db70ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Animations/StarDudes@Rifle_Idle_1.fbx using Guid(7641d9d5bda09b140b776211a9db70ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c387f38d10cb1f8ecd21edad619260bb') in 0.024633 seconds
+  Import took 0.030494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000896 seconds.
+  path: Assets/StarDudes_Package/Animations/StarDudes@Rifle_Walk.fbx
+  artifactKey: Guid(9bb69c4c7f38f584cadc9239962a5c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Animations/StarDudes@Rifle_Walk.fbx using Guid(9bb69c4c7f38f584cadc9239962a5c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8a2500ea6f89ca4ceb220846da92cd4') in 0.022682 seconds
+  Import took 0.028430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000597 seconds.
+  path: Assets/StarDudes_Package/Animations/StarDudes@T.fbx
+  artifactKey: Guid(85cf2a5dd37d139478ef054181bc5787) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Animations/StarDudes@T.fbx using Guid(85cf2a5dd37d139478ef054181bc5787) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5e59bba38fd13a1c917d1230dec6339') in 0.020293 seconds
+  Import took 0.024619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000471 seconds.
+  path: Assets/StarDudes_Package/_source/Models/helmets/helmet_m_alpha.fbx
+  artifactKey: Guid(de4ffa38398ee584885d1f8c5e6f0b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/_source/Models/helmets/helmet_m_alpha.fbx using Guid(de4ffa38398ee584885d1f8c5e6f0b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42c3b093f7c0844ad12201379dec3b73') in 0.051413 seconds
+  Import took 0.054471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000505 seconds.
+  path: Assets/StarDudes_Package/Animations/StarDudes@Rifle_FourShot.fbx
+  artifactKey: Guid(3e8d2aa426af8a348a2cb3e170eb2a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Animations/StarDudes@Rifle_FourShot.fbx using Guid(3e8d2aa426af8a348a2cb3e170eb2a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63d27e438d5c69fee90f016eac92ad53') in 0.018453 seconds
+  Import took 0.022791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000555 seconds.
+  path: Assets/StarDudes_Package/Animations/StarDudes@Unarmed_Walk.fbx
+  artifactKey: Guid(070c717500d976a4cbaac438c99886af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Animations/StarDudes@Unarmed_Walk.fbx using Guid(070c717500d976a4cbaac438c99886af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf912b3a728f4b0b6a950e8c4669ade2') in 0.023033 seconds
+  Import took 0.027317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000502 seconds.
+  path: Assets/StarDudes_Package/Animations/StarDudes@Strafe_Right.fbx
+  artifactKey: Guid(e3b0bf89f6dd5ab4bb5794fb6e7edc07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Animations/StarDudes@Strafe_Right.fbx using Guid(e3b0bf89f6dd5ab4bb5794fb6e7edc07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96678604c7731f0f8c44db76e991ea4e') in 0.018428 seconds
+  Import took 0.023508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000583 seconds.
+  path: Assets/StarDudes_Package/_source/Models/weapons/rifle_battlerifle.fbx
+  artifactKey: Guid(185e3abace8ae3145ab66435fd2e1a7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/_source/Models/weapons/rifle_battlerifle.fbx using Guid(185e3abace8ae3145ab66435fd2e1a7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddc3544a9975075022c1b913fc70b971') in 0.040966 seconds
+  Import took 0.045487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000743 seconds.
+  path: Assets/StarDudes_Package/Animations/StarDudes@Pistol_run.fbx
+  artifactKey: Guid(6f3f9cf43fc7433448012f8b9c9aea35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Animations/StarDudes@Pistol_run.fbx using Guid(6f3f9cf43fc7433448012f8b9c9aea35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4096daad0f3b866e34da2fd600355a2') in 0.054670 seconds
+  Import took 0.058992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000505 seconds.
+  path: Assets/StarDudes_Package/Animations/StarDudes@Rifle_Idle_0.fbx
+  artifactKey: Guid(abdf11e847a62674ca5715c2381ff66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Animations/StarDudes@Rifle_Idle_0.fbx using Guid(abdf11e847a62674ca5715c2381ff66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b6bb0a4bc928eaeefa7664e82193ade') in 0.018880 seconds
+  Import took 0.023239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.905956 seconds.
+  path: Assets/StarDudes_Package/Animations/Materials/Default_Material.mat
+  artifactKey: Guid(e18d4de464d5633419a838a50698e858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Animations/Materials/Default_Material.mat using Guid(e18d4de464d5633419a838a50698e858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4f1d8a1cce5bb7930b4a64a40a48d2b') in 0.067112 seconds
+  Import took 0.071467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000582 seconds.
+  path: Assets/StarDudes_Package/Materials/helmet_a_yellow_blue.mat
+  artifactKey: Guid(68d4669f3bdeb4e49ba2f6a944408222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials/helmet_a_yellow_blue.mat using Guid(68d4669f3bdeb4e49ba2f6a944408222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bac8d2798921b3a7366890161733448') in 0.031448 seconds
+  Import took 0.034889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000506 seconds.
+  path: Assets/StarDudes_Package/Materials/helmet_a_red_blue.mat
+  artifactKey: Guid(fdffc28ef05334141a3cf6d678ef1fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials/helmet_a_red_blue.mat using Guid(fdffc28ef05334141a3cf6d678ef1fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e2a79dd189f84015c75b1a4bc298972') in 0.031926 seconds
+  Import took 0.036013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000608 seconds.
+  path: Assets/StarDudes_Package/Materials/helmet_a_purple_yellow.mat
+  artifactKey: Guid(4e281c3b018d2974e998a11a6dae47aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials/helmet_a_purple_yellow.mat using Guid(4e281c3b018d2974e998a11a6dae47aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '943ea5f7ba8dc86d2f9f6702d2a68793') in 0.030178 seconds
+  Import took 0.034726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000554 seconds.
+  path: Assets/StarDudes_Package/Materials/head_dingo.mat
+  artifactKey: Guid(7236b3de77eacfd47a010784cf10b8b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials/head_dingo.mat using Guid(7236b3de77eacfd47a010784cf10b8b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '622118acd08d4169208822cc01959e24') in 0.075141 seconds
+  Import took 0.080412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000545 seconds.
+  path: Assets/StarDudes_Package/Materials_alt/helmet_a_blue_yellow.mat
+  artifactKey: Guid(f2c703729c0915546bfb658ebe7fb0e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials_alt/helmet_a_blue_yellow.mat using Guid(f2c703729c0915546bfb658ebe7fb0e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3c9c98b7f59ab342da2837e0906ec9a') in 0.031617 seconds
+  Import took 0.035840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000695 seconds.
+  path: Assets/StarDudes_Package/Materials_alt/helmet_b_armygreen_yellow.mat
+  artifactKey: Guid(f53a56e27ad59fd4c9181241d010324d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials_alt/helmet_b_armygreen_yellow.mat using Guid(f53a56e27ad59fd4c9181241d010324d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11c60ea911e91197e71f77310b775fab') in 0.035518 seconds
+  Import took 0.039792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/StarDudes_Package/Materials_alt/head_panthra.mat
+  artifactKey: Guid(60a842607dc043546b5fbef916c30017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials_alt/head_panthra.mat using Guid(60a842607dc043546b5fbef916c30017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90ad1a41f15cd00ea4bd2a534e171afa') in 0.029278 seconds
+  Import took 0.032292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000575 seconds.
+  path: Assets/StarDudes_Package/Materials/head_hawk.mat
+  artifactKey: Guid(ad8125ac6559fae4597bdbf9f4a36dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials/head_hawk.mat using Guid(ad8125ac6559fae4597bdbf9f4a36dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9271adf210f0e24361e3ca6a213f9c5') in 0.027391 seconds
+  Import took 0.031107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000506 seconds.
+  path: Assets/StarDudes_Package/Materials/head_capitan.mat
+  artifactKey: Guid(c0493664190b398418aa7cd8a1c84370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials/head_capitan.mat using Guid(c0493664190b398418aa7cd8a1c84370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbb87a29b0421f8e5aea2886caca36d2') in 0.029791 seconds
+  Import took 0.033106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000460 seconds.
+  path: Assets/StarDudes_Package/Materials/helmet_a_blue_yellow.mat
+  artifactKey: Guid(d4acf057d5630ae4aa87470e17753041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials/helmet_a_blue_yellow.mat using Guid(d4acf057d5630ae4aa87470e17753041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36393cea3ace9980a5b80b4fdedc175b') in 0.034692 seconds
+  Import took 0.038026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/StarDudes_Package/Materials_alt/helmet_a_teal_orange.mat
+  artifactKey: Guid(f21d4924730f5384b802dc2f5ddaab70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials_alt/helmet_a_teal_orange.mat using Guid(f21d4924730f5384b802dc2f5ddaab70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f62bfc4c66caffcd82514a6747409c11') in 0.031023 seconds
+  Import took 0.034253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000547 seconds.
+  path: Assets/StarDudes_Package/Materials/helmet_a_orange_blue.mat
+  artifactKey: Guid(33ee7fdfb9b21b04283f35a3ff6db410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials/helmet_a_orange_blue.mat using Guid(33ee7fdfb9b21b04283f35a3ff6db410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0266d66bac8ac53aa23c742eac7d9012') in 0.028717 seconds
+  Import took 0.032574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000572 seconds.
+  path: Assets/StarDudes_Package/Materials/helmet_b_red_blue.mat
+  artifactKey: Guid(1b8053af1aba3934392108e60609c81b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials/helmet_b_red_blue.mat using Guid(1b8053af1aba3934392108e60609c81b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13f2052460d44f776f06564cfda8466f') in 0.029090 seconds
+  Import took 0.033734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000447 seconds.
+  path: Assets/StarDudes_Package/Materials_alt/helmet_b_purple_yellow.mat
+  artifactKey: Guid(fea0ffe577ac7e942bfef59aa775be5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials_alt/helmet_b_purple_yellow.mat using Guid(fea0ffe577ac7e942bfef59aa775be5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a85f3e02396c324a1063189fb2f90ccd') in 0.034795 seconds
+  Import took 0.037911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000837 seconds.
+  path: Assets/StarDudes_Package/Materials_alt/head_dingo.mat
+  artifactKey: Guid(609832edf075c1f48bcd491e50e9e959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials_alt/head_dingo.mat using Guid(609832edf075c1f48bcd491e50e9e959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ea196185b618fec9c35cfd538851a87') in 0.076704 seconds
+  Import took 0.082572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000507 seconds.
+  path: Assets/StarDudes_Package/Materials_alt/helmet_a_#playercolor#.mat
+  artifactKey: Guid(29dc36e448a71854fad3e07dd94442eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials_alt/helmet_a_#playercolor#.mat using Guid(29dc36e448a71854fad3e07dd94442eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de3fdc2d86af850fdfa796e1626cdb04') in 0.033050 seconds
+  Import took 0.036943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000489 seconds.
+  path: Assets/StarDudes_Package/Materials_alt/helmet_b_#playercolor#.mat
+  artifactKey: Guid(2d03b1d00a97bf443bc05d36edd1262f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials_alt/helmet_b_#playercolor#.mat using Guid(2d03b1d00a97bf443bc05d36edd1262f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b2ef6a50807edac2bfdc03bd7917624') in 0.033591 seconds
+  Import took 0.037422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000504 seconds.
+  path: Assets/StarDudes_Package/Materials_alt/helmet_a_purple_yellow.mat
+  artifactKey: Guid(b2eb332ea3927cf499a8df231e913860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials_alt/helmet_a_purple_yellow.mat using Guid(b2eb332ea3927cf499a8df231e913860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce8063fc5dc7280a95e8114f33667134') in 0.040624 seconds
+  Import took 0.044067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000524 seconds.
+  path: Assets/StarDudes_Package/Materials/helmet_a_base.mat
+  artifactKey: Guid(0fc0f62f1e8a434408425fde8fd3cab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials/helmet_a_base.mat using Guid(0fc0f62f1e8a434408425fde8fd3cab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cff5b0f110939ecdd8165c39a71900ed') in 0.032963 seconds
+  Import took 0.036372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000541 seconds.
+  path: Assets/StarDudes_Package/Materials_alt/helmet_a_red_blue.mat
+  artifactKey: Guid(404d44f7462006b4dad18e99c95dbbcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials_alt/helmet_a_red_blue.mat using Guid(404d44f7462006b4dad18e99c95dbbcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '369675b498ac6aaf8ccd4ca704fc565f') in 0.033318 seconds
+  Import took 0.037256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000489 seconds.
+  path: Assets/StarDudes_Package/Materials/helmet_b_base.mat
+  artifactKey: Guid(d9ab9cb28a830a945b59b8aa268af5a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials/helmet_b_base.mat using Guid(d9ab9cb28a830a945b59b8aa268af5a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32e54aed1a356b1caf4e4caffb6d5004') in 0.030041 seconds
+  Import took 0.034266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/StarDudes_Package/Materials_alt/helmet_a_base.mat
+  artifactKey: Guid(04d9d1fad99460e4daac7e430922cb47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials_alt/helmet_a_base.mat using Guid(04d9d1fad99460e4daac7e430922cb47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba1f1a9d567356883de35f806c1be2af') in 0.031972 seconds
+  Import took 0.035444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000497 seconds.
+  path: Assets/StarDudes_Package/Materials_alt/helmet_b_orange_blue.mat
+  artifactKey: Guid(5b4b25b5e7e6acf46a2447dd0c871a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials_alt/helmet_b_orange_blue.mat using Guid(5b4b25b5e7e6acf46a2447dd0c871a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75e56b5311d60175b2269ed243c087b6') in 0.038414 seconds
+  Import took 0.042357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000509 seconds.
+  path: Assets/StarDudes_Package/Materials_alt/head_hawk.mat
+  artifactKey: Guid(716fca78026577844bb83b4035c88985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials_alt/head_hawk.mat using Guid(716fca78026577844bb83b4035c88985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a217ffce49023b0613548fdeb63e57c') in 0.028894 seconds
+  Import took 0.032398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000508 seconds.
+  path: Assets/StarDudes_Package/Materials_alt/helmet_b_red_blue.mat
+  artifactKey: Guid(d638f33e63ec5f84b83a0d124837d381) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials_alt/helmet_b_red_blue.mat using Guid(d638f33e63ec5f84b83a0d124837d381) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dc801aff89c19d145180cf257ca8884') in 0.032392 seconds
+  Import took 0.037062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000799 seconds.
+  path: Assets/StarDudes_Package/Materials/helmet_b_purple_yellow.mat
+  artifactKey: Guid(4f13a333a65879344a45906fa5698b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials/helmet_b_purple_yellow.mat using Guid(4f13a333a65879344a45906fa5698b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd13b505d04a5a50d41413418c379898') in 0.032005 seconds
+  Import took 0.036152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000553 seconds.
+  path: Assets/StarDudes_Package/Materials_alt/helmet_b_blue_yellow.mat
+  artifactKey: Guid(bf01b08696a9584439c0df8d53ee958f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials_alt/helmet_b_blue_yellow.mat using Guid(bf01b08696a9584439c0df8d53ee958f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26298287eab1d84ad7e24bf0d0f71e6f') in 0.036277 seconds
+  Import took 0.039936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000520 seconds.
+  path: Assets/StarDudes_Package/Materials_alt/helmet_a_yellow_blue.mat
+  artifactKey: Guid(36dec803d72eaca49aa5a8b7e744be11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials_alt/helmet_a_yellow_blue.mat using Guid(36dec803d72eaca49aa5a8b7e744be11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '879c3b4d615aeb5a7e3f907e2e580011') in 0.033615 seconds
+  Import took 0.037457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000662 seconds.
+  path: Assets/StarDudes_Package/Materials/head_hedgehog.mat
+  artifactKey: Guid(41d013df9a3ad41478961581c51a98cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials/head_hedgehog.mat using Guid(41d013df9a3ad41478961581c51a98cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fa37ef33179c995b17a69bfe47135b4') in 0.029102 seconds
+  Import took 0.034156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000550 seconds.
+  path: Assets/StarDudes_Package/Materials_alt/head_capitan.mat
+  artifactKey: Guid(0fa4e6c2e7bdc9347a3ac7ec5fb8e9b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials_alt/head_capitan.mat using Guid(0fa4e6c2e7bdc9347a3ac7ec5fb8e9b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09a66f236cc79ce2f669d7c79b664dec') in 0.034627 seconds
+  Import took 0.039141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000667 seconds.
+  path: Assets/StarDudes_Package/Materials_alt/helmet_a_red_orange.mat
+  artifactKey: Guid(33259043988e2a04bb666b64a086d7ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials_alt/helmet_a_red_orange.mat using Guid(33259043988e2a04bb666b64a086d7ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82200b3827d299bca1fa9346a8ffea11') in 0.038377 seconds
+  Import took 0.042967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000709 seconds.
+  path: Assets/StarDudes_Package/Materials_alt/helmet_a_armygreen_yellow.mat
+  artifactKey: Guid(9fcdeeea5d9d7424abb5607f2378caa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials_alt/helmet_a_armygreen_yellow.mat using Guid(9fcdeeea5d9d7424abb5607f2378caa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1c8bc37045cea0b26285c893e9f1a7a') in 0.035507 seconds
+  Import took 0.039708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000538 seconds.
+  path: Assets/StarDudes_Package/Materials_alt/helmet_b_base.mat
+  artifactKey: Guid(31ff7716dcc0f5b4bb1877331f109568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials_alt/helmet_b_base.mat using Guid(31ff7716dcc0f5b4bb1877331f109568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed840fedfb4eac45c84c711533ace71a') in 0.027645 seconds
+  Import took 0.031428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000419 seconds.
+  path: Assets/StarDudes_Package/Materials/helmet_a_#playercolor#.mat
+  artifactKey: Guid(eb88e45524fcb3049b18e0ce3950b545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials/helmet_a_#playercolor#.mat using Guid(eb88e45524fcb3049b18e0ce3950b545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a74fb7dca2a9c5ccb0541763d3e717a') in 0.034568 seconds
+  Import took 0.037788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000472 seconds.
+  path: Assets/StarDudes_Package/Materials/helmet_a_teal_orange.mat
+  artifactKey: Guid(6fd5f1eadb4f0d642996b6b6835ce5ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials/helmet_a_teal_orange.mat using Guid(6fd5f1eadb4f0d642996b6b6835ce5ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32ec5b84016be8f8a4ea6508b89d2e80') in 0.031131 seconds
+  Import took 0.035222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000863 seconds.
+  path: Assets/StarDudes_Package/Materials/helmet_b_armygreen_yellow.mat
+  artifactKey: Guid(8e321d31faba6a54b9915d191872cf0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials/helmet_b_armygreen_yellow.mat using Guid(8e321d31faba6a54b9915d191872cf0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cadf77e53520c69f55978bb4ef1b7def') in 0.028557 seconds
+  Import took 0.032586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000748 seconds.
+  path: Assets/StarDudes_Package/Materials/helmet_b_#playercolor#.mat
+  artifactKey: Guid(0e26acb7ddf6dcb46aa82e41cd799984) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials/helmet_b_#playercolor#.mat using Guid(0e26acb7ddf6dcb46aa82e41cd799984) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '443924dfc23271353276e02a5ab09c46') in 0.033206 seconds
+  Import took 0.037767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/StarDudes_Package/Materials_alt/helmet_b_snow.mat
+  artifactKey: Guid(d6d907ed14e74cb4d9a0866b58a3290e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials_alt/helmet_b_snow.mat using Guid(d6d907ed14e74cb4d9a0866b58a3290e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad98af441714980d21e9085b4db26d1d') in 0.033065 seconds
+  Import took 0.036622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/StarDudes_Package/Materials_alt/helmet_a_orange_blue.mat
+  artifactKey: Guid(87829023ae7f1fc419afd9b7638b290b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials_alt/helmet_a_orange_blue.mat using Guid(87829023ae7f1fc419afd9b7638b290b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ac5f49be08e2d37e6afca33a0119ba7') in 0.034452 seconds
+  Import took 0.038778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000565 seconds.
+  path: Assets/StarDudes_Package/Materials/helmet_b_blue_yellow.mat
+  artifactKey: Guid(ed1a5dd9a93f2f64f8866539fa15585e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials/helmet_b_blue_yellow.mat using Guid(ed1a5dd9a93f2f64f8866539fa15585e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbc8cab6aa28159f2ce351434715a9c9') in 0.032373 seconds
+  Import took 0.035646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/StarDudes_Package/Materials_alt/helmet_a_snow.mat
+  artifactKey: Guid(e5cdcd839b2884142b14b9ef3c93b11a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials_alt/helmet_a_snow.mat using Guid(e5cdcd839b2884142b14b9ef3c93b11a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86150e3261051c622743d875f4434c90') in 0.025507 seconds
+  Import took 0.028069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/StarDudes_Package/Materials_alt/head_hedgehog.mat
+  artifactKey: Guid(ca83b86429aa3054c8208a42dedc8549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials_alt/head_hedgehog.mat using Guid(ca83b86429aa3054c8208a42dedc8549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18f25e8e9a75463cfba8d3d3e0358e07') in 0.021375 seconds
+  Import took 0.024743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000514 seconds.
+  path: Assets/StarDudes_Package/Materials/helmet_a_armygreen_yellow.mat
+  artifactKey: Guid(2f2b520b52b6c6e4ebdf4ac27c04e13c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials/helmet_a_armygreen_yellow.mat using Guid(2f2b520b52b6c6e4ebdf4ac27c04e13c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fffbbc8fa1650009b638f2bf812600ef') in 0.027184 seconds
+  Import took 0.029816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/StarDudes_Package/Materials/helmet_b_orange_blue.mat
+  artifactKey: Guid(0066fa7da2c33204da7715ceaf69c508) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials/helmet_b_orange_blue.mat using Guid(0066fa7da2c33204da7715ceaf69c508) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f360b7a66303a7ca6bde54f01dcb3d9c') in 0.026662 seconds
+  Import took 0.030043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/StarDudes_Package/Materials/helmet_a_red_orange.mat
+  artifactKey: Guid(abf74fdfa4b96c8418dc232037cd11a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials/helmet_a_red_orange.mat using Guid(abf74fdfa4b96c8418dc232037cd11a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70e25abce99742e3308df011acb6fe9a') in 0.020120 seconds
+  Import took 0.022657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/StarDudes_Package/Materials_alt/helmet_b_red_orange.mat
+  artifactKey: Guid(b97f72cbf353f0b40b3e36b7a4950835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials_alt/helmet_b_red_orange.mat using Guid(b97f72cbf353f0b40b3e36b7a4950835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4addbb793aa92fdde2af4938b20e6045') in 0.025101 seconds
+  Import took 0.027586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/StarDudes_Package/Materials/helmet_b_red_orange.mat
+  artifactKey: Guid(38d5337a827f8ae44b15f1e1ab48e95d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials/helmet_b_red_orange.mat using Guid(38d5337a827f8ae44b15f1e1ab48e95d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d74b6ee1aaac28961fb43107da26bc5') in 0.024247 seconds
+  Import took 0.027365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/StarDudes_Package/Materials/head_panthra.mat
+  artifactKey: Guid(310f8552a7d27e7439296be7fb8e97fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarDudes_Package/Materials/head_panthra.mat using Guid(310f8552a7d27e7439296be7fb8e97fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8982d19164e5c9a29cc9c6299452fd4a') in 0.020675 seconds
+  Import took 0.024198 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001874 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.725 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.8 MB.
+System memory in use after: 74.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1611.
+Total: 3.692200 ms (FindLiveObjects: 0.421700 ms CreateObjectMapping: 0.086600 ms MarkObjects: 3.127700 ms  DeleteObjects: 0.054600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 235.867388 seconds.
+  path: Assets/Resources/VuforiaConfiguration.asset
+  artifactKey: Guid(f1c3746753ce25045a88ffeb4183ac16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/VuforiaConfiguration.asset using Guid(f1c3746753ce25045a88ffeb4183ac16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c549c88b69c8d92a8fa65036aea99085') in 0.024085 seconds
+  Import took 0.029531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 195.755675 seconds.
+  path: Assets/Editor/Vuforia
+  artifactKey: Guid(3b318b5996063a14d95c24c308870509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/Vuforia using Guid(3b318b5996063a14d95c24c308870509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd44c40eb962d530b0b50c3f1a7be06df') in 0.008261 seconds
+  Import took 0.012390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002473 seconds.
+  path: Assets/Editor/Vuforia
+  artifactKey: Guid(3b318b5996063a14d95c24c308870509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/Vuforia using Guid(3b318b5996063a14d95c24c308870509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd44c40eb962d530b0b50c3f1a7be06df') in 0.009411 seconds
+  Import took 0.013398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.249664 seconds.
+  path: Assets/Editor/Vuforia/CylinderTargetTextures
+  artifactKey: Guid(21c7256dec9132140af63b32f95af6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/Vuforia/CylinderTargetTextures using Guid(21c7256dec9132140af63b32f95af6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb105490e19f2053e485f686d6abe067') in 0.008215 seconds
+  Import took 0.012078 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
